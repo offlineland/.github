@@ -1,4 +1,4 @@
-|offlineland.io](https://offlineland.io) is an interactive monument to Manyland!
+[offlineland.io](https://offlineland.io) is an interactive monument to Manyland!
 
 This org holds the code for Offlineland itself, as well as the archive of public content on manyland.
 
